@@ -1,16 +1,72 @@
-## Hi there 👋
+# 👋 Hi there, I’m Michael Tao
 
-<!--
-**realmichaeltao/realmichaeltao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **M.S. Software Engineering @ Carnegie Mellon University - Silicon Valley**  
+💻 **B.A. Computer Science & Data Science @ UC Berkeley**  
+🌉 Based in the **Bay Area, California**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I’m a passionate **software engineer** who loves building **scalable systems**, **AI-powered apps**, and **clean, intuitive frontends**.  
+I enjoy turning complex problems into elegant, maintainable solutions.
+
+💡 Some highlights:
+- ⚙️ Modernized legacy Angular → Vue codebase @ **Cisco ThousandEyes**
+- 🧠 Deployed 15+ LLMs and automated workflows @ **Oxmiq Labs**
+- ☁️ Built scalable real-time systems on **Alibaba Cloud**
+
+---
+
+## 🧩 Tech Stack
+
+🖥️ **Languages:**  
+`Python` · `Java` · `C/C++` · `JavaScript/TypeScript` · `Go` · `SQL` · `Ruby`
+
+⚡ **Frameworks:**  
+`React` · `Vue` · `NestJS` · `Express.js` · `Django` · `Ruby on Rails` · `PyTorch` · `TensorFlow`
+
+☁️ **Tools & Cloud:**  
+`AWS` · `Azure` · `GCP` · `Docker` · `Kubernetes` · `Terraform` · `CI/CD` · `Prometheus` · `Grafana`
+
+---
+
+## 🏞️ Outside of Code
+
+When I’m not shipping code or learning new frameworks, you’ll probably find me:
+- 🏊‍♂️ **Swimming laps** at the pool  
+- 🥾 **Hiking scenic trails** around the Bay Area  
+- 🚗 **Road-tripping** through national parks chasing views and sunsets  
+
+> “Code hard, hike harder.” 🌲🌄
+
+---
+
+## 🌱 Currently Exploring
+- 🧠 Building full-stack apps with **AI integration**
+- ☁️ Cloud-native architecture & DevOps automation
+- 🧩 Open-source contributions and hackathon projects
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=realmichaeltao&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=realmichaeltao&layout=compact&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=realmichaeltao&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌐 Let’s Connect
+
+📫 **Email:** [mtao3@andrew.cmu.edu](mailto:mtao3@andrew.cmu.edu)  
+💼 **LinkedIn:** [linkedin.com/in/realmichaeltao](https://linkedin.com/in/realmichaeltao)  
+🌎 **Website:** [realmichaeltao.github.io](https://realmichaeltao.github.io/) 
+
+---
+
+⭐️ _Thanks for visiting — check out my projects and let’s build something awesome together!_
