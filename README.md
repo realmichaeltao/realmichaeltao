@@ -47,8 +47,6 @@ When I’m not coding or exploring new frameworks, you’ll probably find me:
 - ☁️ Cloud-native architecture & DevOps automation
 - 🧩 Open-source contributions and hackathon projects
 
----
-
 ## 🌐 Let’s Connect
 
 📫 **Email:** [mtao3@andrew.cmu.edu](mailto:mtao3@andrew.cmu.edu)  
