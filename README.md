@@ -49,18 +49,6 @@ When I’m not coding or exploring new frameworks, you’ll probably find me:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=realmichaeltao&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=realmichaeltao&layout=compact&theme=tokyonight&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com?user=realmichaeltao&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🌐 Let’s Connect
 
 📫 **Email:** [mtao3@andrew.cmu.edu](mailto:mtao3@andrew.cmu.edu)  
@@ -68,5 +56,3 @@ When I’m not coding or exploring new frameworks, you’ll probably find me:
 🌎 **Website:** [realmichaeltao.github.io](https://realmichaeltao.github.io/) 
 
 ---
-
-⭐️ _Thanks for visiting — check out my projects and let’s build something awesome together!_
