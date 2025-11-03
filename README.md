@@ -14,7 +14,7 @@ I enjoy turning complex problems into elegant, maintainable solutions.
 💡 Some highlights:
 - ⚙️ Modernized legacy Angular → Vue codebase @ **Cisco ThousandEyes**
 - 🧠 Deployed 15+ LLMs and automated workflows @ **Oxmiq Labs**
-- ☁️ Built scalable real-time systems on **Alibaba Cloud**
+- ☁️ Built scalable real-time systems @ **Alibaba Cloud**
 
 ---
 
