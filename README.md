@@ -31,14 +31,14 @@ I enjoy turning complex problems into elegant, maintainable solutions.
 
 ---
 
-## 🏞️ Outside of Code
+## 🎸 Outside of Code
 
-When I’m not shipping code or learning new frameworks, you’ll probably find me:
-- 🏊‍♂️ **Swimming laps** at the pool  
-- 🥾 **Hiking scenic trails** around the Bay Area  
-- 🚗 **Road-tripping** through national parks chasing views and sunsets  
+When I’m not coding or exploring new frameworks, you’ll probably find me:
+- 🏊‍♂️ **Swimming** to recharge  
+- 🥾 **Hiking trails** across the Bay Area  
+- 🥁 **Playing drums** and listening to **heavy metal** — big fan of **Metallica** 🤘  
 
-> “Code hard, hike harder.” 🌲🌄
+> “Code hard, drum louder.” 🧠🥁
 
 ---
 
